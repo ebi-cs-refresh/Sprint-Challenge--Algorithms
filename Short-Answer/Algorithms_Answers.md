@@ -10,8 +10,9 @@ b) o(n^2)time
     o(1) space
 
 
-c) o(logn) time
+c) o(logn) time   --> recursive
 o(n) space
+o(1)= it will take the same amount of time despite input size
 
 ## Exercise II
 
