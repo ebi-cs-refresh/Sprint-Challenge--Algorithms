@@ -23,6 +23,7 @@ def count_th(word):
 #         return 1 + count_th(word[len(n)-1:], n)
 #     else:
 #         return count_th(word[len(n)-1:], n)  # count from the remaining index
+
 if __name__ == '__main__':
     wordy = "ththththhhthth"
     n = "gabby"
