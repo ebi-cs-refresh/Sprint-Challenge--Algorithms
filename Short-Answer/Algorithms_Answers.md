@@ -2,14 +2,29 @@
 
 ## Exercise I
 
-a)
+a) o(n) time => o(n*m)
+    o(1) space
 
 
-b)
+b) o(n^2)time
+    o(1) space
 
 
-c)
+c) o(logn) time
+o(n) space
 
 ## Exercise II
+
+Thinking of using binary search alg
+
+sort arr of floors
+
+divide the arr in 2, 
+if target is greater than middle go right
+if target is less than mid
+go left
+do recursive algo
+until the middle matches target
+if not all floors will break egg regardless
 
 
